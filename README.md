@@ -1,4 +1,4 @@
 # README.md
 Dhruv Satasiya
 Biochemisty 
-I am intreted in learning how AI is going to affect healthcare.
+I am intrested in learning how AI is going to affect healthcare.
